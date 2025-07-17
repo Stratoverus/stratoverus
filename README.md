@@ -24,12 +24,12 @@ I'm Keith Eberhard, a student at Brigham Young University-Idaho and current empl
 
 ## 🔍 Project Highlights
 
-- **OOP Coursework:** Check out my [C++ project archives](https://github.com/Stratoverus?tab=repositories&q=c%2B%2B&type=&language=) and [C# explorations](https://github.com/Stratoverus?tab=repositories&q=c%23&type=&language=)
+- **C++ Projects:** Check out my [C++ Game]([https://github.com/Stratoverus?tab=repositories&q=c%2B%2B&type=&language=](https://github.com/Stratoverus/IronBound))
 - **Web Projects:** [pokecards](https://github.com/Stratoverus/pokecards)
 
 ## 🤝 Let’s Connect!
 
-- [LinkedIn](Your LinkedIn Profile Link)
+- [LinkedIn](https://www.linkedin.com/in/keitheberhard/)
 
 ---
 
