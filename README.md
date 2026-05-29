@@ -2,11 +2,11 @@
 
 Hey there! 👋
 
-I'm Keith Eberhard, a student at Brigham Young University-Idaho and current employee at Early Warning Services with a drive for solving problems through code. My journey has taken me across a spectrum of technologies, but at my core, I’m passionate about building robust systems using **object-oriented programming** (OOP)—especially with **C++** and **C#**. I enjoy dissecting complex problems and engineering solutions that are both elegant and efficient.
+I'm Keith Eberhard, I graduated from Brigham Young University-Idaho and current employee at Early Warning Services with a drive for solving problems through code. My journey has taken me across a spectrum of technologies, but at my core, I’m passionate about building robust systems using Python and bash. I enjoy dissecting complex problems and engineering solutions that are both elegant and efficient.
 
 ## 🛠️ My Coding Toolbox
 
-- **Languages I Love:** C++, C#, Python, JavaScript, HTML, CSS
+- **Languages I Love:** Python, bash, C++, C#, JavaScript, HTML, CSS
 - **Specialties:** Object-Oriented Programming, Software Design, Algorithms & Data Structures
 - **Also Skilled At:** Web development (as a bonus), Git & GitHub, collaborative projects
 
